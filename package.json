@@ -1,0 +1,21 @@
+{
+  "name": "xx",
+  "version": "1.0.0",
+  "description": "bgx",
+  "main": "bg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BoranGkdn",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "parse-ms": "^3.0.0",
+    "winston": "^3.3.3"
+  }
+}
